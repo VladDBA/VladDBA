@@ -5,7 +5,7 @@
 ## On GitHub
 
 - Projects I’m currently working on: 
-  - [PSBlitz](https://github.com/sqlcollaborative/dbatools)
+  - [PSBlitz](https://github.com/VladDBA/PSBlitz)
 - Various T-SQL/PowerShel SQL Server-related scripts - [SQL-Server-Scripts](https://github.com/VladDBA/SQL-Server-Scripts)
 
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladDBA&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
