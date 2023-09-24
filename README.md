@@ -3,7 +3,7 @@
 
 I've started working with SQL Server back in 2012 and since then I've gained the bulk of my experience in large production environments.\
 I am a [Data Platform MCSE](https://www.credly.com/badges/ba2296f1-74b3-4fb6-9415-a3e866f08832/public_url) with a passion for performance tunning and security. I am also an [OSCP](https://www.credential.net/7170fee5-2260-4205-a6e8-1b7cd4d75b14#gs.4ws10p) and [PNPT](https://www.credential.net/4ee01ae1-ee5d-4a17-85e6-4251e3923454#gs.4ws11s).\
-I enjoy using PowerShell to automate tasks.\
+I enjoy using PowerShell to automate tasks.
 
 <!--
 **VladDBA/VladDBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
