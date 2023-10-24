@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### My name is Vlad Drumea
 
-I've been working with SQL Server for the past 11+ years focusing on performance, security, and automation, with the bulk of my experience being gained working with large production environments.\
+I've been working with SQL Server for the past 11+ years focusing on performance, security, and automation, with the bulk of my experience being gained while working with large production environments.\
 I am a [Data Platform MCSE](https://www.credly.com/badges/ba2296f1-74b3-4fb6-9415-a3e866f08832/public_url), as well as an [OSCP](https://www.credential.net/7170fee5-2260-4205-a6e8-1b7cd4d75b14#gs.4ws10p) and [PNPT](https://www.credential.net/4ee01ae1-ee5d-4a17-85e6-4251e3923454#gs.4ws11s).\
 I enjoy messing around on my home lab and using PowerShell to automate tasks.
 
