@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 #### Latest blog posts
 
 - [0A000086 and command not found with latest mssql-tools for Linux](https://vladdba.com/2024/09/08/0a000086-not-found-mssql-tools-linux/)
-- [Create SQL Server containers with Podman](https://vladdba.com/2024/09/07/create-sql-server-containers-with-podman/)
+- [Create a SQL Server container with Podman](https://vladdba.com/2024/09/07/create-sql-server-container-with-podman/)
 - [SQL Server query to get storage info](https://vladdba.com/2024/07/22/sql-server-query-storage-info/)
 - [Export XML files from SQL Server using PowerShell](https://vladdba.com/2024/06/30/export-xml-files-from-sql-server/)
 
