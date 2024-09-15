@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 
 #### Latest blog posts
 
+- [Fix implicit conversion performance when you can’t change the query](https://vladdba.com/2024/09/15/implicit-conversion-performance-query/)
 - [What are implicit conversions in SQL Server?](https://vladdba.com/2024/09/11/implicit-conversions-in-sql-server/)
 - [0A000086 and command not found with latest mssql-tools for Linux](https://vladdba.com/2024/09/08/0a000086-not-found-mssql-tools-linux/)
 - [Create a SQL Server container with Podman](https://vladdba.com/2024/09/07/create-sql-server-container-with-podman/)
