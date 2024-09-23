@@ -53,4 +53,6 @@ Here are some ideas to get you started:
 - [SQL Server query to get storage info](https://vladdba.com/2024/07/22/sql-server-query-storage-info/)
 - [Export XML files from SQL Server using PowerShell](https://vladdba.com/2024/06/30/export-xml-files-from-sql-server/)
 
+#### Most popular blog posts
+
 ---
