@@ -44,15 +44,31 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/vladdrumea/)
 - [Mastodon](https://mastodon.cloud/@VladDBA)
 
-#### Latest blog posts
+#### Top 5 blog posts
+
+##### Latest
 
 - [Fix implicit conversion when you can’t change the query](https://vladdba.com/2024/09/15/implicit-conversion-performance-query/)
 - [What are implicit conversions in SQL Server?](https://vladdba.com/2024/09/11/implicit-conversions-in-sql-server/)
 - [0A000086 and command not found with latest mssql-tools for Linux](https://vladdba.com/2024/09/08/0a000086-not-found-mssql-tools-linux/)
 - [Create a SQL Server container with Podman](https://vladdba.com/2024/09/07/create-sql-server-container-with-podman/)
 - [SQL Server query to get storage info](https://vladdba.com/2024/07/22/sql-server-query-storage-info/)
-- [Export XML files from SQL Server using PowerShell](https://vladdba.com/2024/06/30/export-xml-files-from-sql-server/)
 
-#### Most popular blog posts
+##### By likes
+
+- [Finding Long Values Faster - my solution to Brent's exercise](https://vladdba.com/2024/02/15/find-long-values-faster-my-solution-to-brents-exercise)
+- [Plagiarism and a lesson in hotlinking images](https://vladdba.com/2024/02/18/plagiarism-and-a-lesson-in-hotlinking-images)
+- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
+- [Export multiple SQL Server tables to CSV files](https://vladdba.com/2023/11/16/export-multiple-sql-server-tables-to-csv-files)
+- [How apps cause ASYNC_NETWORK_IO waits in SQL Server](https://vladdba.com/2024/01/22/how-applications-cause-excessive-async_network_io-waits-in-sql-server)
+
+##### By views
+
+- [Script to delete extra tempdb data files](https://vladdba.com/2024/03/11/script-to-delete-extra-tempdb-data-files)
+- [Fixing SQL Server connection errors 64 and 233](https://vladdba.com/2023/04/26/fixing-sql-server-connection-errors-64-233)
+- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
+- [Script to get table sizes in SQL Server](https://vladdba.com/2023/08/24/script-to-get-table-sizes-in-sql-server)
+- [Setting up a Windows Server 2022 VM in VirtualBox](https://vladdba.com/2022/12/29/setting-up-a-windows-server-2022-vm-in-virtualbox)
+
 
 ---
