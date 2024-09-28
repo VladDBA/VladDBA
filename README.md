@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 #### Top 5 blog posts
 
-##### Latest
+#### Latest
 
 - [Fix implicit conversion when you can’t change the query](https://vladdba.com/2024/09/15/implicit-conversion-performance-query/)
 - [What are implicit conversions in SQL Server?](https://vladdba.com/2024/09/11/implicit-conversions-in-sql-server/)
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - [Create a SQL Server container with Podman](https://vladdba.com/2024/09/07/create-sql-server-container-with-podman/)
 - [SQL Server query to get storage info](https://vladdba.com/2024/07/22/sql-server-query-storage-info/)
 
-##### By likes
+#### By likes
 
 - [Finding Long Values Faster - my solution to Brent's exercise](https://vladdba.com/2024/02/15/find-long-values-faster-my-solution-to-brents-exercise)
 - [Plagiarism and a lesson in hotlinking images](https://vladdba.com/2024/02/18/plagiarism-and-a-lesson-in-hotlinking-images)
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 - [Export multiple SQL Server tables to CSV files](https://vladdba.com/2023/11/16/export-multiple-sql-server-tables-to-csv-files)
 - [How apps cause ASYNC_NETWORK_IO waits in SQL Server](https://vladdba.com/2024/01/22/how-applications-cause-excessive-async_network_io-waits-in-sql-server)
 
-##### By views
+#### By views
 
 - [Script to delete extra tempdb data files](https://vladdba.com/2024/03/11/script-to-delete-extra-tempdb-data-files)
 - [Fixing SQL Server connection errors 64 and 233](https://vladdba.com/2023/04/26/fixing-sql-server-connection-errors-64-233)
