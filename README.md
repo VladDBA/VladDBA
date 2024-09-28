@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 </a>
 <br/>
 
+---
+
 #### Projects I’m currently working on: 
   - [PSBlitz](https://github.com/VladDBA/PSBlitz) - A PowerShell-based tool that outputs SQL Server health and performance diagnostics data to either Excel or HTML, and saves execution plans and deadlock graphs as .sqlplan and .xdl files
   - [SQL-Server-Scripts](https://github.com/VladDBA/SQL-Server-Scripts) - Various T-SQL/PowerShell SQL Server-related scripts.
