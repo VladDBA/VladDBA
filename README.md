@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://vladdba.com">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vladdba&theme=midnight-purple" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vladdba&theme=midnight-purple" />
 </a>
 
 
