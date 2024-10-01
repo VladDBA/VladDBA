@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 #### &#x1f4c8; My GitHub Stats
 
 <a href="https://vladdba.com">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vladdba&show_icons=true&line_height=33&count_private=true&theme=midnight-purple" alt="VladDBA's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vladdba&show_icons=true&line_height=33&count_private=true&theme=midnight-purple" alt="VladDBA's GitHub Stats" />
 </a>
+
+<a href="https://vladdba.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladdba&&hide=cmake&langs_count=4&line_height=35&theme=midnight-purple&layout=pie" />
+</a>
+
 <a href="https://vladdba.com">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vladdba&theme=midnight-purple" />
-</a>
-<a href="https://vladdba.com">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladdba&&hide=cmake&langs_count=4&line_height=35&theme=midnight-purple&layout=pie" />
 </a>
 
 
