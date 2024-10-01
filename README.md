@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/vladdrumea/)
 - [Mastodon](https://mastodon.cloud/@VladDBA)
 
+---
+
 #### Top 5 blog posts
 
 #### Latest
@@ -71,6 +73,5 @@ Here are some ideas to get you started:
 - [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
 - [Script to get table sizes in SQL Server](https://vladdba.com/2023/08/24/script-to-get-table-sizes-in-sql-server)
 - [Setting up a Windows Server 2022 VM in VirtualBox](https://vladdba.com/2022/12/29/setting-up-a-windows-server-2022-vm-in-virtualbox)
-
 
 ---
