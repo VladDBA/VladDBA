@@ -10,7 +10,7 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 
 
 
