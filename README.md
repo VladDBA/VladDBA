@@ -58,6 +58,8 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### By views
 
+### Recently updated
+
 - [Script to delete extra tempdb data files](https://vladdba.com/2024/03/11/script-to-delete-extra-tempdb-data-files)
 - [Fixing SQL Server connection errors 64 and 233](https://vladdba.com/2023/04/26/fixing-sql-server-connection-errors-64-233)
 - [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
