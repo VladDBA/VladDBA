@@ -64,7 +64,7 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 - [Script to get table sizes in SQL Server](https://vladdba.com/2023/08/24/script-to-get-table-sizes-in-sql-server)
 - [Setting up a Windows Server 2022 VM in VirtualBox](https://vladdba.com/2022/12/29/setting-up-a-windows-server-2022-vm-in-virtualbox)
 
-### Recently updated
+#### Recently updated
 
 - [Fix for slow VirtualBox VM performance](https://vladdba.com/2024/06/21/fix-slow-virtualbox-vm-performance)
 - [Script to decode Asus router configuration backup file](https://vladdba.com/2024/05/19/powershell-decode-asus-router-configuration-backup-file)
