@@ -35,7 +35,7 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 - [My blog](https://vladdba.com/)
 - [LinkedIn](https://www.linkedin.com/in/vladdrumea/)
 - [Mastodon](https://mastodon.cloud/@VladDBA)
-- [Bluesky](https://bsky.app/profile/vladdba.bsky.social)
+- [Bluesky](https://bsky.app/profile/vladdba.com)
 
 ---
 
