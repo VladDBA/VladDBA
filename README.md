@@ -43,12 +43,11 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Latest
 
+- [SQL Server Management Studio 21 Preview 1 – First Impressions](https://vladdba.com/2024/11/14/sql-server-management-studio-21-preview-1-first-impressions/)
 - [6 reasons for using Developer Edition over Express for learning SQL Server](https://vladdba.com/2024/11/12/developer-edition-express-for-learning-sql-server)
 - [Benchmark LAN throughput with iPerf3](https://vladdba.com/2024/11/10/benchmark-lan-throughput-with-iperf3)
 - [Brent Ozar's Black Friday deals are live! Here's why you shouldn't miss them](https://vladdba.com/2024/11/01/brent-ozar-black-friday-deals/)
 - [Characters displayed as question marks or squares in SQL Server](https://vladdba.com/2024/10/04/characters-question-marks-squares-sql-server/)
-- [Fix implicit conversion when you can’t change the query](https://vladdba.com/2024/09/15/implicit-conversion-performance-query/)
-- [What are implicit conversions in SQL Server?](https://vladdba.com/2024/09/11/implicit-conversions-in-sql-server/)
 
 #### By likes
 
