@@ -43,7 +43,7 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Latest
 
-- []()
+- [](https://vladdba.com/2024/12/31/most-popular-blog-posts-2024/)
 - [Parse log files with PowerShell](https://vladdba.com/2024/12/18/parse-log-files-powershell/)
 - [SQL Server Management Studio 21 Preview 1 – First Impressions](https://vladdba.com/2024/11/14/sql-server-management-studio-21-preview-1-first-impressions/)
 - [6 reasons for using Developer Edition over Express for learning SQL Server](https://vladdba.com/2024/11/12/developer-edition-express-for-learning-sql-server)
