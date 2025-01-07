@@ -63,15 +63,15 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 - [Script to delete extra tempdb data files](https://vladdba.com/2024/03/11/script-to-delete-extra-tempdb-data-files)
 - [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
 - [Fixing SQL Server connection errors 64 and 233](https://vladdba.com/2023/04/26/fixing-sql-server-connection-errors-64-233)
-- [Script to get table sizes in SQL Server](https://vladdba.com/2023/08/24/script-to-get-table-sizes-in-sql-server)
-- [Setting up a Windows Server 2022 VM in VirtualBox](https://vladdba.com/2022/12/29/setting-up-a-windows-server-2022-vm-in-virtualbox)
+- [Script to get table sizes in SQL Server](https://vladdba.com/2023/08/24/script-to-get-table-sizes-in-sql-server/)
+- [Setting up a Windows Server 2022 VM in VirtualBox](https://vladdba.com/2022/12/29/setting-up-a-windows-server-2022-vm-in-virtualbox/)
 
 #### Recently updated
 
-- [Fix for slow VirtualBox VM performance](https://vladdba.com/2024/06/21/fix-slow-virtualbox-vm-performance)
-- [Script to decode Asus router configuration backup file](https://vladdba.com/2024/05/19/powershell-decode-asus-router-configuration-backup-file)
-- [Setting up an Ubuntu VM for SQL Server 2019 and 2022](https://vladdba.com/2022/10/28/setting-up-an-ubuntu-vm-for-sql-server-2019-and-2022)
-- [Getting away with multiple NULLs in a unique constraint](https://vladdba.com/2022/12/09/getting-away-with-multiple-nulls-in-a-unique-constraint)
-- [Testing large insert speeds in SQL Server](https://vladdba.com/2023/06/22/testing-large-insert-speeds-in-sql-server)
+- [Script to measure write speeds in SQL Server](https://vladdba.com/2024/03/02/measure-write-speeds-in-sql-server/)
+- [Fix for slow VirtualBox VM performance](https://vladdba.com/2024/06/21/fix-slow-virtualbox-vm-performance/)
+- [Script to decode Asus router configuration backup file](https://vladdba.com/2024/05/19/powershell-decode-asus-router-configuration-backup-file/)
+- [Setting up an Ubuntu VM for SQL Server 2019 and 2022](https://vladdba.com/2022/10/28/setting-up-an-ubuntu-vm-for-sql-server-2019-and-2022/)
+- [Getting away with multiple NULLs in a unique constraint](https://vladdba.com/2022/12/09/getting-away-with-multiple-nulls-in-a-unique-constraint/)
 
 ---
