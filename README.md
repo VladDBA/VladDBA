@@ -47,22 +47,22 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 - [Most popular blog posts in 2024](https://vladdba.com/2024/12/31/most-popular-blog-posts-2024/)
 - [Parse log files with PowerShell](https://vladdba.com/2024/12/18/parse-log-files-powershell/)
 - [SQL Server Management Studio 21 Preview 1 – First Impressions](https://vladdba.com/2024/11/14/sql-server-management-studio-21-preview-1-first-impressions/)
-- [6 reasons for using Developer Edition over Express for learning SQL Server](https://vladdba.com/2024/11/12/developer-edition-express-for-learning-sql-server)
+- [6 reasons for using Developer Edition over Express for learning SQL Server](https://vladdba.com/2024/11/12/developer-edition-express-for-learning-sql-server/)
 
 
 #### By likes
 
-- [Finding Long Values Faster - my solution to Brent's exercise](https://vladdba.com/2024/02/15/find-long-values-faster-my-solution-to-brents-exercise)
-- [Plagiarism and a lesson in hotlinking images](https://vladdba.com/2024/02/18/plagiarism-and-a-lesson-in-hotlinking-images)
-- [Export multiple SQL Server tables to CSV files](https://vladdba.com/2023/11/16/export-multiple-sql-server-tables-to-csv-files)
-- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
-- [How apps cause ASYNC_NETWORK_IO waits in SQL Server](https://vladdba.com/2024/01/22/how-applications-cause-excessive-async_network_io-waits-in-sql-server)
+- [Finding Long Values Faster - my solution to Brent's exercise](https://vladdba.com/2024/02/15/find-long-values-faster-my-solution-to-brents-exercise/)
+- [Plagiarism and a lesson in hotlinking images](https://vladdba.com/2024/02/18/plagiarism-and-a-lesson-in-hotlinking-images/)
+- [Export multiple SQL Server tables to CSV files](https://vladdba.com/2023/11/16/export-multiple-sql-server-tables-to-csv-files/)
+- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database/)
+- [How apps cause ASYNC_NETWORK_IO waits in SQL Server](https://vladdba.com/2024/01/22/how-applications-cause-excessive-async_network_io-waits-in-sql-server/)
 
 #### By views
 
-- [Script to delete extra tempdb data files](https://vladdba.com/2024/03/11/script-to-delete-extra-tempdb-data-files)
-- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
-- [Fixing SQL Server connection errors 64 and 233](https://vladdba.com/2023/04/26/fixing-sql-server-connection-errors-64-233)
+- [Script to delete extra tempdb data files](https://vladdba.com/2024/03/11/script-to-delete-extra-tempdb-data-files/)
+- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database/)
+- [Fixing SQL Server connection errors 64 and 233](https://vladdba.com/2023/04/26/fixing-sql-server-connection-errors-64-233/)
 - [Script to get table sizes in SQL Server](https://vladdba.com/2023/08/24/script-to-get-table-sizes-in-sql-server/)
 - [Setting up a Windows Server 2022 VM in VirtualBox](https://vladdba.com/2022/12/29/setting-up-a-windows-server-2022-vm-in-virtualbox/)
 
