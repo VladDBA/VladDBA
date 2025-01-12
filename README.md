@@ -71,7 +71,7 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 - [Grant permissions on all functions and stored procedures](https://vladdba.com/2023/09/27/grant-permissions-on-all-functions-and-procedures)
 - [Fix SSL certificate error 1416F086 in sqlcmd on Linux](https://vladdba.com/2024/04/15/fix-ssl-certificate-error-1416f086-in-sqlcmd-on-linux)
 - [Recovering master database with corrupted t-log and no backups](https://vladdba.com/2022/08/31/recovering-master-database-with-corrupted-transaction-log-and-no-backups)
-- [Setting up an Ubuntu VM for SQL Server 2019 and 2022](https://vladdba.com/2022/10/28/setting-up-an-ubuntu-vm-for-sql-server-2019-and-2022/)
+- [The weird case of bcp and Unix line endings](https://vladdba.com/2024/05/09/bcp-unix-line-endings)
 - [Getting away with multiple NULLs in a unique constraint](https://vladdba.com/2022/12/09/getting-away-with-multiple-nulls-in-a-unique-constraint/)
 
 ---
