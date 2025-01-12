@@ -69,7 +69,7 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 #### Recently updated
 
 - [Grant permissions on all functions and stored procedures](https://vladdba.com/2023/09/27/grant-permissions-on-all-functions-and-procedures)
-- [Fix for slow VirtualBox VM performance](https://vladdba.com/2024/06/21/fix-slow-virtualbox-vm-performance/)
+- [Fix SSL certificate error 1416F086 in sqlcmd on Linux](https://vladdba.com/2024/04/15/fix-ssl-certificate-error-1416f086-in-sqlcmd-on-linux)
 - [Script to decode Asus router configuration backup file](https://vladdba.com/2024/05/19/powershell-decode-asus-router-configuration-backup-file/)
 - [Setting up an Ubuntu VM for SQL Server 2019 and 2022](https://vladdba.com/2022/10/28/setting-up-an-ubuntu-vm-for-sql-server-2019-and-2022/)
 - [Getting away with multiple NULLs in a unique constraint](https://vladdba.com/2022/12/09/getting-away-with-multiple-nulls-in-a-unique-constraint/)
