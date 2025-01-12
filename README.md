@@ -68,7 +68,7 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Recently updated
 
-- [Script to measure write speeds in SQL Server](https://vladdba.com/2024/03/02/measure-write-speeds-in-sql-server/)
+- [Grant permissions on all functions and stored procedures](https://vladdba.com/2023/09/27/grant-permissions-on-all-functions-and-procedures)
 - [Fix for slow VirtualBox VM performance](https://vladdba.com/2024/06/21/fix-slow-virtualbox-vm-performance/)
 - [Script to decode Asus router configuration backup file](https://vladdba.com/2024/05/19/powershell-decode-asus-router-configuration-backup-file/)
 - [Setting up an Ubuntu VM for SQL Server 2019 and 2022](https://vladdba.com/2022/10/28/setting-up-an-ubuntu-vm-for-sql-server-2019-and-2022/)
