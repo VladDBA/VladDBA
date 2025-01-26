@@ -48,7 +48,6 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 - [Explaining SQL injection using PowerShell and SQL Server](https://vladdba.com/2025/01/06/explaining-sql-injection-powershell-and-sql-server/)
 - [Most popular blog posts in 2024](https://vladdba.com/2024/12/31/most-popular-blog-posts-2024/)
 - [Parse log files with PowerShell](https://vladdba.com/2024/12/18/parse-log-files-powershell/)
-- [SQL Server Management Studio 21 Preview 1 – First Impressions](https://vladdba.com/2024/11/14/sql-server-management-studio-21-preview-1-first-impressions/)
 
 
 #### By likes
