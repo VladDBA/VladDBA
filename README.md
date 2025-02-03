@@ -68,5 +68,10 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Recently updated
 
+- [My SQL Server Management Studio configuration](https://vladdba.com/2023/01/31/my-sql-server-management-studio-19-configuration)
+- [Script to get database sizes in SQL Server](https://vladdba.com/2023/09/16/script-to-get-database-sizes-sql-server)
+- [Ping sweep in PowerShell](https://vladdba.com/2024/06/20/ping-sweep-in-powershell)
+- [What is dbo in SQL Server, anyway?](https://vladdba.com/2022/10/20/what-is-dbo-in-sql-server)
+- [Securing xp_cmdshell in SQL Server](https://vladdba.com/2023/06/29/securing-xp_cmdshell-in-sql-server-2022)
 
 ---
