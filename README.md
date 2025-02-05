@@ -48,7 +48,6 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 - [Repair a SQL Server instance](https://vladdba.com/2025/01/22/repair-a-sql-server-instance/)
 - [Explaining SQL injection using PowerShell and SQL Server](https://vladdba.com/2025/01/06/explaining-sql-injection-powershell-and-sql-server/)
 - [Most popular blog posts in 2024](https://vladdba.com/2024/12/31/most-popular-blog-posts-2024/)
-- [Parse log files with PowerShell](https://vladdba.com/2024/12/18/parse-log-files-powershell/)
 
 
 #### By likes
