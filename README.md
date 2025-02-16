@@ -71,7 +71,7 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 - [Using SQL Server Startup Procedures to automate sp_BlitzWho](https://vladdba.com/2023/10/24/sql-server-startup-procedures-automate-sp_blitzwho)
 - [The curious case of the truncating NVARCHAR(MAX) variable](https://vladdba.com/2024/05/26/the-curious-case-of-the-truncating-nvarcharmax-variable)
 - [Export and import multiple SQL Server tables to and from CSV files](https://vladdba.com/2023/11/16/export-multiple-sql-server-tables-to-csv-files)
-- [My SQL Server Management Studio configuration](https://vladdba.com/2023/01/31/my-sql-server-management-studio-19-configuration)
-- [Script to get database sizes in SQL Server](https://vladdba.com/2023/09/16/script-to-get-database-sizes-sql-server)
+- [How apps cause ASYNC_NETWORK_IO waits in SQL Server](https://vladdba.com/2024/01/22/how-applications-cause-excessive-async_network_io-waits-in-sql-server)
+- [Create a SQL Server container with Podman](https://vladdba.com/2024/09/07/create-sql-server-container-with-podman)
 
 ---
