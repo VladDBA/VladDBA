@@ -43,11 +43,11 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Latest
 
+- [Code sign PowerShell script with Certum's open source code-signing certificate](https://vladdba.com/2025/02/11/code-sign-powershell-script-certum)
 - [Move SQL Server database files to another drive & folder](https://vladdba.com/2025/02/06/move-sql-server-database-files-another-drive-folder/)
 - [What people get wrong about how SQL Server accesses files](https://vladdba.com/2025/01/26/what-people-get-wrong-about-how-sql-server-accesses-files/)
 - [Repair a SQL Server instance](https://vladdba.com/2025/01/22/repair-a-sql-server-instance/)
 - [Explaining SQL injection using PowerShell and SQL Server](https://vladdba.com/2025/01/06/explaining-sql-injection-powershell-and-sql-server/)
-- [Most popular blog posts in 2024](https://vladdba.com/2024/12/31/most-popular-blog-posts-2024/)
 
 
 #### By likes
