@@ -43,12 +43,11 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Latest
 
+- [Find object dependencies in SQL Server](https://vladdba.com/2025/04/15/query-object-dependencies-sql-server/)
 - [Query connection information in SQL Server](https://vladdba.com/2025/04/13/query-connection-information-in-sql-server/)
 - [Dangerous SET options stored procedure inherit from your session](https://vladdba.com/2025/03/03/dangerous-set-options-stored-procedures/)
 - [Migrate the sa password to another instance without knowing it](https://vladdba.com/2025/02/15/migrate-sa-password-another-instance/)
 - [Code sign PowerShell script with Certum's open source code-signing certificate](https://vladdba.com/2025/02/11/code-sign-powershell-script-certum)
-- [Move SQL Server database files to another drive & folder](https://vladdba.com/2025/02/06/move-sql-server-database-files-another-drive-folder/)
-
 
 #### By likes
 
