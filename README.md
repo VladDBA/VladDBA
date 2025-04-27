@@ -67,10 +67,10 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Recently updated
 
+- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database/)
 - [Testing large insert speeds in SQL Server](https://vladdba.com/2023/06/22/testing-large-insert-speeds-in-sql-server/)
 - [Using SQL Server Startup Procedures to automate sp_BlitzWho](https://vladdba.com/2023/10/24/sql-server-startup-procedures-automate-sp_blitzwho)
 - [The curious case of the truncating NVARCHAR(MAX) variable](https://vladdba.com/2024/05/26/the-curious-case-of-the-truncating-nvarcharmax-variable)
 - [Export and import multiple SQL Server tables to and from CSV files](https://vladdba.com/2023/11/16/export-multiple-sql-server-tables-to-csv-files)
-- [How apps cause ASYNC_NETWORK_IO waits in SQL Server](https://vladdba.com/2024/01/22/how-applications-cause-excessive-async_network_io-waits-in-sql-server)
 
 ---
