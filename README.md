@@ -61,9 +61,9 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 - [Script to delete extra tempdb data files](https://vladdba.com/2024/03/11/script-to-delete-extra-tempdb-data-files)
 - [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
-- [Fixing SQL Server connection errors 64 and 233](https://vladdba.com/2023/04/26/fixing-sql-server-connection-errors-64-233)
+- [Fixing SQL Server connection errors 64 233](https://vladdba.com/2023/04/26/fixing-sql-server-connection-errors-64-233)
 - [Script to get table sizes in SQL Server](https://vladdba.com/2023/08/24/script-to-get-table-sizes-in-sql-server)
-- [Setting up a Windows Server 2022 VM in VirtualBox](https://vladdba.com/2022/12/29/setting-up-a-windows-server-2022-vm-in-virtualbox)
+- [Setting up a Windows Server 2019 VM in VirtualBox](https://vladdba.com/2022/11/10/setting-up-a-windows-server-2019-vm-in-virtualbox)
 
 #### Recently updated
 
