@@ -67,10 +67,10 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Recently updated
 
-- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database/)
-- [Testing large insert speeds in SQL Server](https://vladdba.com/2023/06/22/testing-large-insert-speeds-in-sql-server/)
+- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
+- [Get access to SQL Server when you don't have the SA password](https://vladdba.com/2023/08/07/get-access-to-sql-server-when-you-dont-have-the-sa-password)
+- [Parse log files with PowerShell](https://vladdba.com/2024/12/18/parse-log-files-powershell)
 - [Using SQL Server Startup Procedures to automate sp_BlitzWho](https://vladdba.com/2023/10/24/sql-server-startup-procedures-automate-sp_blitzwho)
-- [The curious case of the truncating NVARCHAR(MAX) variable](https://vladdba.com/2024/05/26/the-curious-case-of-the-truncating-nvarcharmax-variable)
-- [Export and import multiple SQL Server tables to and from CSV files](https://vladdba.com/2023/11/16/export-multiple-sql-server-tables-to-csv-files)
+- [Save execution plan files via PowerShell](https://vladdba.com/2023/01/17/save-execution-plan-files-powershell)
 
 ---
