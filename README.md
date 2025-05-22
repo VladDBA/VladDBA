@@ -47,7 +47,7 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 - [Script to count all NULLs in a table in SQL Server](https://vladdba.com/2025/05/02/count-all-nulls-in-a-table-in-sql-server/)
 - [Find object dependencies in SQL Server](https://vladdba.com/2025/04/15/query-object-dependencies-sql-server/)
 - [Query connection information in SQL Server](https://vladdba.com/2025/04/13/query-connection-information-in-sql-server/)
-- [Dangerous SET options stored procedure inherit from your session](https://vladdba.com/2025/03/03/dangerous-set-options-stored-procedures/)
+
 
 #### By likes
 
