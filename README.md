@@ -43,12 +43,11 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Latest
 
+- [Breaking change in the sqlcmd version shipped with SQL Server 2025](https://vladdba.com/2025/05/25/breaking-change-sqlcmd-version-sql-server-2025/)
 - [System object changes in SQL Server 2025 vs 2022](https://vladdba.com/2025/05/25/system-object-changes-sql-server-2025-2022/)
 - [View SQL Server system objects’ definitions](https://vladdba.com/2025/05/22/view-sql-server-system-objects-definitions/)
 - [SQL Server 2025 Preview – installation and first impressions](https://vladdba.com/2025/05/22/sql-server-2025-preview-installation-first-impressions/)
 - [My wish list for SSMS 21](https://vladdba.com/2025/05/07/my-wish-list-for-ssms-21/)
-- [Script to count all NULLs in a table in SQL Server](https://vladdba.com/2025/05/02/count-all-nulls-in-a-table-in-sql-server/)
-
 
 #### By likes
 
