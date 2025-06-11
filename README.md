@@ -43,11 +43,11 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Latest
 
+- [The VM CPU configuration mistake that is hurting your SQL Server performance and wasting licensing money](https://vladdba.com/2025/06/08/vm-cpu-configuration-sql-server-performance-licensing/)
 - [Create a SQL Server 2025 container](https://vladdba.com/2025/05/30/sql-server-2025-container/)
 - [Breaking change in the sqlcmd version shipped with SQL Server 2025](https://vladdba.com/2025/05/25/breaking-change-sqlcmd-version-sql-server-2025/)
 - [System object changes in SQL Server 2025 vs 2022](https://vladdba.com/2025/05/25/system-object-changes-sql-server-2025-2022/)
 - [View SQL Server system objects’ definitions](https://vladdba.com/2025/05/22/view-sql-server-system-objects-definitions/)
-- [SQL Server 2025 Preview – installation and first impressions](https://vladdba.com/2025/05/22/sql-server-2025-preview-installation-first-impressions/)
 
 #### By likes
 
@@ -67,10 +67,10 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Recently updated
 
+- ["Access denied” when attaching a database via SSMS](https://vladdba.com/2022/09/29/fix-access-denied-when-attaching-a-database-via-ssms/)
 - [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
 - [Get access to SQL Server when you don't have the SA password](https://vladdba.com/2023/08/07/get-access-to-sql-server-when-you-dont-have-the-sa-password)
 - [Parse log files with PowerShell](https://vladdba.com/2024/12/18/parse-log-files-powershell)
 - [Using SQL Server Startup Procedures to automate sp_BlitzWho](https://vladdba.com/2023/10/24/sql-server-startup-procedures-automate-sp_blitzwho)
-- [Save execution plan files via PowerShell](https://vladdba.com/2023/01/17/save-execution-plan-files-powershell)
 
 ---
