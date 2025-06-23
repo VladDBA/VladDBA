@@ -1,4 +1,5 @@
-### Hi there 👋 
+### Hi there 👋
+
 ### My name is Vlad Drumea
 
 I've been working with SQL Server for the past 13+ years focusing on query performance, database security, and automation, with the bulk of my experience being gained while working with large production environments.\
@@ -26,9 +27,10 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 ---
 
-#### Projects I’m currently working on: 
-  - [PSBlitz](https://github.com/VladDBA/PSBlitz) - A PowerShell-based tool that outputs SQL Server health and performance diagnostics data to either Excel or HTML, and saves execution plans and deadlock graphs as .sqlplan and .xdl files
-  - [SQL-Server-Scripts](https://github.com/VladDBA/SQL-Server-Scripts) - Various T-SQL/PowerShell SQL Server-related scripts.
+#### Projects I’m currently working on
+
+- [PSBlitz](https://github.com/VladDBA/PSBlitz) - A PowerShell-based tool that outputs SQL Server health and performance diagnostics data to either Excel or HTML, and saves execution plans and deadlock graphs as .sqlplan and .xdl files
+- [SQL-Server-Scripts](https://github.com/VladDBA/SQL-Server-Scripts) - Various T-SQL/PowerShell SQL Server-related scripts.
 
 #### On the Internet
 
@@ -43,11 +45,11 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Latest
 
+- [Looking into SQL Server 2025’s new PBKDF2 hashing algorithm](https://vladdba.com/2025/06/23/looking-into-sql-server-2025s-new-pbkdf2-hashing-algorithm/)
 - [The VM CPU configuration mistake that is hurting your SQL Server performance and wasting licensing money](https://vladdba.com/2025/06/08/vm-cpu-configuration-sql-server-performance-licensing/)
 - [Create a SQL Server 2025 container](https://vladdba.com/2025/05/30/sql-server-2025-container/)
 - [Breaking change in the sqlcmd version shipped with SQL Server 2025](https://vladdba.com/2025/05/25/breaking-change-sqlcmd-version-sql-server-2025/)
 - [System object changes in SQL Server 2025 vs 2022](https://vladdba.com/2025/05/25/system-object-changes-sql-server-2025-2022/)
-- [View SQL Server system objects’ definitions](https://vladdba.com/2025/05/22/view-sql-server-system-objects-definitions/)
 
 #### By likes
 
