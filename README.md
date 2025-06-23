@@ -69,10 +69,10 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Recently updated
 
+- [Cracking SQL Server login passwords online](https://vladdba.com/2022/10/06/cracking-sql-login-passwords-online/)
+- [Cracking SQL Server login passwords offline](https://vladdba.com/2022/09/21/cracking-sql-server-login-passwords-offline/)
 - ["Access denied” when attaching a database via SSMS](https://vladdba.com/2022/09/29/fix-access-denied-when-attaching-a-database-via-ssms/)
 - [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
 - [Get access to SQL Server when you don't have the SA password](https://vladdba.com/2023/08/07/get-access-to-sql-server-when-you-dont-have-the-sa-password)
-- [Parse log files with PowerShell](https://vladdba.com/2024/12/18/parse-log-files-powershell)
-- [Using SQL Server Startup Procedures to automate sp_BlitzWho](https://vladdba.com/2023/10/24/sql-server-startup-procedures-automate-sp_blitzwho)
 
 ---
