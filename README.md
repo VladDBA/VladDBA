@@ -4,7 +4,7 @@
 
 I've been working with SQL Server for the past 13+ years focusing on query performance, database security, and automation, with the bulk of my experience being gained while working with large production environments.\
 I am a [Data Platform MCSE](https://www.credly.com/badges/ba2296f1-74b3-4fb6-9415-a3e866f08832/public_url), as well as an [OSCP](https://www.credential.net/7170fee5-2260-4205-a6e8-1b7cd4d75b14#gs.4ws10p) and [PNPT](https://www.credential.net/4ee01ae1-ee5d-4a17-85e6-4251e3923454#gs.4ws11s), with a passion for InfoSec and PowerShell.\
-In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post on [my blog](https://vladdba.com/), and play around in my home lab.
+In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz) - a PowerShell-based tool that helps you find and diagnose issues on SQL Server/Azure SQL DB/ Azure SQL MI, post on [my blog](https://vladdba.com/), and play around in my home lab.
 
 <!--
 **VladDBA/VladDBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,11 +45,11 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz), post o
 
 #### Latest
 
+- [Does Query Store plan forcing work on queries using the RECOMPILE hint?](https://vladdba.com/2025/07/18/query-store-plan-forcing-queries-recompile-hint/)
 - [Looking into SQL Server 2025’s new PBKDF2 hashing algorithm](https://vladdba.com/2025/06/23/looking-into-sql-server-2025s-new-pbkdf2-hashing-algorithm/)
 - [The VM CPU configuration mistake that is hurting your SQL Server performance and wasting licensing money](https://vladdba.com/2025/06/08/vm-cpu-configuration-sql-server-performance-licensing/)
 - [Create a SQL Server 2025 container](https://vladdba.com/2025/05/30/sql-server-2025-container/)
 - [Breaking change in the sqlcmd version shipped with SQL Server 2025](https://vladdba.com/2025/05/25/breaking-change-sqlcmd-version-sql-server-2025/)
-- [System object changes in SQL Server 2025 vs 2022](https://vladdba.com/2025/05/25/system-object-changes-sql-server-2025-2022/)
 
 #### By likes
 
