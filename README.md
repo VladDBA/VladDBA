@@ -45,11 +45,11 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz) - a Pow
 
 #### Latest
 
-- [Does Query Store plan forcing work on queries using the RECOMPILE hint?](https://vladdba.com/2025/07/18/query-store-plan-forcing-queries-recompile-hint/)
-- [Looking into SQL Server 2025’s new PBKDF2 hashing algorithm](https://vladdba.com/2025/06/23/looking-into-sql-server-2025s-new-pbkdf2-hashing-algorithm/)
-- [The VM CPU configuration mistake that is hurting your SQL Server performance and wasting licensing money](https://vladdba.com/2025/06/08/vm-cpu-configuration-sql-server-performance-licensing/)
-- [Create a SQL Server 2025 container](https://vladdba.com/2025/05/30/sql-server-2025-container/)
-- [Breaking change in the sqlcmd version shipped with SQL Server 2025](https://vladdba.com/2025/05/25/breaking-change-sqlcmd-version-sql-server-2025/)
+- [SQL Server IDENTITY columns - an info-dump](https://vladdba.com/2025/07/23/identity-columns-sql-server)
+- [Script to reseed out-of-sync sequences used for default constraints](https://vladdba.com/2025/07/20/reseed-out-of-sync-sequences-default-constraints-sql-server)
+- [Does Query Store plan forcing work on queries using the RECOMPILE hint?](https://vladdba.com/2025/07/18/query-store-plan-forcing-queries-recompile-hint)
+- [Looking into SQL Server 2025's new PBKDF2 hashing algorithm](https://vladdba.com/2025/06/23/looking-into-sql-server-2025s-new-pbkdf2-hashing-algorithm)
+- [The VM CPU configuration mistake that is hurting your SQL Server performance and wasting licensing money](https://vladdba.com/2025/06/08/vm-cpu-configuration-sql-server-performance-licensing)
 
 #### By likes
 
