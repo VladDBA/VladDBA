@@ -53,9 +53,9 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz) - a Pow
 
 #### By likes
 
+- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
 - [Finding Long Values Faster - my solution to Brent's exercise](https://vladdba.com/2024/02/15/find-long-values-faster-my-solution-to-brents-exercise)
 - [Plagiarism and a lesson in hotlinking images](https://vladdba.com/2024/02/18/plagiarism-and-a-lesson-in-hotlinking-images)
-- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
 - [Export and import multiple SQL Server tables to and from CSV files](https://vladdba.com/2023/11/16/export-multiple-sql-server-tables-to-csv-files)
 - [How apps cause ASYNC_NETWORK_IO waits in SQL Server](https://vladdba.com/2024/01/22/how-applications-cause-excessive-async_network_io-waits-in-sql-server)
 
