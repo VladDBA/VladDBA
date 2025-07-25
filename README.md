@@ -69,10 +69,10 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz) - a Pow
 
 #### Recently updated
 
-- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database/)
-- [Cracking SQL Server login passwords online](https://vladdba.com/2022/10/06/cracking-sql-login-passwords-online/)
-- [Cracking SQL Server login passwords offline](https://vladdba.com/2022/09/21/cracking-sql-server-login-passwords-offline/)
-- ["Access denied” when attaching a database via SSMS](https://vladdba.com/2022/09/29/fix-access-denied-when-attaching-a-database-via-ssms/)
+- [Securing SQL Server's service account](https://vladdba.com/2023/07/24/securing-sql-servers-service-account)
+- [Testing large insert speeds in SQL Server](https://vladdba.com/2023/06/22/testing-large-insert-speeds-in-sql-server)
+- [Script to decode Asus router configuration backup file](https://vladdba.com/2024/05/19/powershell-decode-asus-router-configuration-backup-file)
 - [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
+- [Script to measure write speeds in SQL Server](https://vladdba.com/2024/03/02/measure-write-speeds-in-sql-server)
 
 ---
