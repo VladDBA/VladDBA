@@ -45,6 +45,7 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz) - a Pow
 
 #### Latest
 
+- [Diagnosing SQL Server with PSBlitz – 3-year anniversary post](https://vladdba.com/2025/07/30/diagnosing-sql-server-with-psblitz-3-years-anniversary-post/)
 - [My PowerShell coding setup](https://vladdba.com/2025/07/28/my-powershell-coding-setup/)
 - [No, SQL Server CTEs do not store results](https://vladdba.com/2025/07/27/sql-server-ctes-do-not-store-results/)
 - [SQL Server IDENTITY columns - an info-dump](https://vladdba.com/2025/07/23/identity-columns-sql-server)
