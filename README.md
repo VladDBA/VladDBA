@@ -45,6 +45,7 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz) - a Pow
 
 #### Latest
 
+- [My PowerShell coding setup](https://vladdba.com/2025/07/28/my-powershell-coding-setup/)
 - [No, SQL Server CTEs do not store results](https://vladdba.com/2025/07/27/sql-server-ctes-do-not-store-results/)
 - [SQL Server IDENTITY columns - an info-dump](https://vladdba.com/2025/07/23/identity-columns-sql-server)
 - [Script to reseed out-of-sync sequences used for default constraints](https://vladdba.com/2025/07/20/reseed-out-of-sync-sequences-default-constraints-sql-server)
