@@ -48,8 +48,6 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz) - a Pow
 - [No, SQL Server CTEs do not store results](https://vladdba.com/2025/07/27/sql-server-ctes-do-not-store-results/)
 - [SQL Server IDENTITY columns - an info-dump](https://vladdba.com/2025/07/23/identity-columns-sql-server)
 - [Script to reseed out-of-sync sequences used for default constraints](https://vladdba.com/2025/07/20/reseed-out-of-sync-sequences-default-constraints-sql-server)
-- [Does Query Store plan forcing work on queries using the RECOMPILE hint?](https://vladdba.com/2025/07/18/query-store-plan-forcing-queries-recompile-hint)
-- [Looking into SQL Server 2025's new PBKDF2 hashing algorithm](https://vladdba.com/2025/06/23/looking-into-sql-server-2025s-new-pbkdf2-hashing-algorithm)
 
 #### By likes
 
