@@ -45,11 +45,11 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz) - a Pow
 
 #### Latest
 
+- [PoCs for two SQL Injection vulnerabilities fixed in SQL Server 2025 GDR KB5063814](https://vladdba.com/2025/08/29/poc-sql-injection-sql-server-2025-cu20-gdr-kb5063814/)
 - [Diagnosing SQL Server with PSBlitz – 3-year anniversary post](https://vladdba.com/2025/07/30/diagnosing-sql-server-with-psblitz-3-years-anniversary-post/)
 - [My PowerShell coding setup](https://vladdba.com/2025/07/28/my-powershell-coding-setup/)
 - [No, SQL Server CTEs do not store results](https://vladdba.com/2025/07/27/sql-server-ctes-do-not-store-results/)
 - [SQL Server IDENTITY columns - an info-dump](https://vladdba.com/2025/07/23/identity-columns-sql-server)
-- [Script to reseed out-of-sync sequences used for default constraints](https://vladdba.com/2025/07/20/reseed-out-of-sync-sequences-default-constraints-sql-server)
 
 #### By likes
 
