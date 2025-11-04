@@ -69,10 +69,10 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz) - a Pow
 
 #### Recently updated
 
-- [Securing SQL Server's service account](https://vladdba.com/2023/07/24/securing-sql-servers-service-account)
-- [Testing large insert speeds in SQL Server](https://vladdba.com/2023/06/22/testing-large-insert-speeds-in-sql-server)
-- [Script to decode Asus router configuration backup file](https://vladdba.com/2024/05/19/powershell-decode-asus-router-configuration-backup-file)
-- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
-- [Script to measure write speeds in SQL Server](https://vladdba.com/2024/03/02/measure-write-speeds-in-sql-server)
+- [Looking into SQL Server 2025's new PBKDF2 hashing algorithm](https://vladdba.com/2025/06/23/looking-into-sql-server-2025s-new-pbkdf2-hashing-algorithm)
+- [Dangerous SET options stored procedure inherit from your session](https://vladdba.com/2025/03/03/dangerous-set-options-stored-procedures)
+- [Create a SQL Server 2025 container](https://vladdba.com/2025/05/30/sql-server-2025-container)
+- [Securing SQL Server linked servers](https://vladdba.com/2023/07/10/securing-sql-server-linked-servers)
+- [Getting away with multiple NULLs in a unique constraint](https://vladdba.com/2022/12/09/getting-away-with-multiple-nulls-in-a-unique-constraint)
 
 ---
