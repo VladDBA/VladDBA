@@ -45,11 +45,11 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz) - a Pow
 
 #### Latest
 
+- [Import saved connections from SSMS 21 to SSMS 22](https://vladdba.com/2025/11/17/import-saved-connections-from-ssms-21-to-ssms-22/)
+- [My SQL Server Management Studio 22 configuration](https://vladdba.com/2025/11/16/my-sql-server-management-studio-22-configuration/)
 - [Replicating SQL Server 2025's PBKDF2 hashing algorithm using T-SQL](https://vladdba.com/2025/11/02/replicating-sql-server-2025-pbkdf2-hashing-algorithm-using-t-sql)
 - [SQL Server Management Studio 22 Preview 3 - first impressions](https://vladdba.com/2025/10/16/sql-server-management-studio-22-preview-3-first-impressions)
 - [PoCs for two SQL Injection vulnerabilities fixed in SQL Server 2022 GDR KB5063814](https://vladdba.com/2025/08/29/poc-sql-injection-sql-server-2022-cu20-gdr-kb5063814)
-- [Diagnosing SQL Server with PSBlitz - 3-year anniversary post](https://vladdba.com/2025/07/30/diagnosing-sql-server-with-psblitz-3-years-anniversary-post)
-- [My PowerShell coding setup](https://vladdba.com/2025/07/28/my-powershell-coding-setup)
 
 #### By likes
 
