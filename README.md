@@ -45,11 +45,11 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz) - a Pow
 
 #### Latest
 
+- [Set up an Ubuntu 24.04 LTS VM in VirtualBox using PowerShell](https://vladdba.com/2026/02/01/ubuntu-24-lts-vm-virtualbox-powershell/)
 - [T-SQL Tuesday #194 – learning from mistakes](https://vladdba.com/2026/01/20/t-sql-tuesday-194-learning-from-mistakes/)
 - [The hidden costs of heaps in SQL Server](https://vladdba.com/2025/12/30/the-hidden-costs-of-heaps-in-sql-server/)
 - [Most popular blog posts in 2025](https://vladdba.com/2025/12/27/most-popular-blog-posts-in-2025/)
 - [Page compression on heaps implies some extra work](https://vladdba.com/2025/12/09/page-compression-heaps-sql-server/)
-- [PowerShell script to extract SSMS 21 and 22 saved connection data](https://vladdba.com/2025/11/22/powershell-extract-ssms-21-22-saved-connection-information/)
 
 
 #### By likes
