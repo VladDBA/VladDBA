@@ -45,11 +45,11 @@ In my spare time I work on [PSBlitz](https://github.com/VladDBA/PSBlitz) - a Pow
 
 #### Latest
 
-- [Change the edition of a SQL Server on Linux instance](https://vladdba.com/2026/02/03/change-edition-sql-server-linux/)
+- [PSBlitz v6.0.0: GUI Mode, HTML Overhaul, and Google Cloud SQL Support](https://vladdba.com/2026/03/23/psblitz-v6-0-0-gui-mode-dark-mode-google-cloud-sql-support)
+- [SSMS 22.4.1 exports results to Excel, JSON, Markdown, and XML](https://vladdba.com/2026/03/20/ssms-export-result-excel-json-markdown-xml)
+- [Change the edition of a SQL Server on Linux instance](https://vladdba.com/2026/02/03/change-edition-sql-server-linux)
 - [Getting started with SQL Server 2025 on Ubuntu 24.04](https://vladdba.com/2026/02/02/sql-server-2025-ubuntu-24-04/)
 - [Set up an Ubuntu 24.04 LTS VM in VirtualBox using PowerShell](https://vladdba.com/2026/02/01/ubuntu-24-lts-vm-virtualbox-powershell/)
-- [T-SQL Tuesday #194 – learning from mistakes](https://vladdba.com/2026/01/20/t-sql-tuesday-194-learning-from-mistakes/)
-- [The hidden costs of heaps in SQL Server](https://vladdba.com/2025/12/30/the-hidden-costs-of-heaps-in-sql-server/)
 
 
 #### By likes
