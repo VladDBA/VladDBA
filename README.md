@@ -45,12 +45,11 @@ I'm the author of [PSBlitz](https://github.com/VladDBA/PSBlitz), an open-source 
 
 #### Latest
 
+- [Cracking SQL Server 2025 login passwords offline with hashcat](https://vladdba.com/2026/04/16/cracking-sql-server-2025-login-passwords-offline-with-hashcat)
+- [Using dynamic T-SQL? Parametrization alone can't prevent SQL injection](https://vladdba.com/2026/04/15/dynamic-t-sql-sql-injection-quotename-executesql)
+- [T-SQL Tuesday #197 - An impactful session changed my DBA career](https://vladdba.com/2026/04/14/t-sql-tuesday-197-impactful-session-dba-career)
+- [PSA: Stop using FLOAT to store financial data in SQL Server](https://vladdba.com/2026/04/11/stop-using-float-for-financial-data-sql-server)
 - [PSBlitz v6.0.0: GUI Mode, HTML Overhaul, and Google Cloud SQL Support](https://vladdba.com/2026/03/23/psblitz-v6-0-0-gui-mode-dark-mode-google-cloud-sql-support)
-- [SSMS 22.4.1 exports results to Excel, JSON, Markdown, and XML](https://vladdba.com/2026/03/20/ssms-export-result-excel-json-markdown-xml)
-- [Change the edition of a SQL Server on Linux instance](https://vladdba.com/2026/02/03/change-edition-sql-server-linux)
-- [Getting started with SQL Server 2025 on Ubuntu 24.04](https://vladdba.com/2026/02/02/sql-server-2025-ubuntu-24-04/)
-- [Set up an Ubuntu 24.04 LTS VM in VirtualBox using PowerShell](https://vladdba.com/2026/02/01/ubuntu-24-lts-vm-virtualbox-powershell/)
-
 
 #### By likes
 
@@ -71,9 +70,9 @@ I'm the author of [PSBlitz](https://github.com/VladDBA/PSBlitz), an open-source 
 #### Recently updated
 
 - [Looking into SQL Server 2025's new PBKDF2 hashing algorithm](https://vladdba.com/2025/06/23/looking-into-sql-server-2025s-new-pbkdf2-hashing-algorithm)
-- [Dangerous SET options stored procedure inherit from your session](https://vladdba.com/2025/03/03/dangerous-set-options-stored-procedures)
-- [Create a SQL Server 2025 container](https://vladdba.com/2025/05/30/sql-server-2025-container)
-- [Securing SQL Server linked servers](https://vladdba.com/2023/07/10/securing-sql-server-linked-servers)
-- [Getting away with multiple NULLs in a unique constraint](https://vladdba.com/2022/12/09/getting-away-with-multiple-nulls-in-a-unique-constraint)
+- [The hidden costs of heaps in SQL Server](https://vladdba.com/2025/12/30/the-hidden-costs-of-heaps-in-sql-server)
+- [My SQL Server Management Studio 22 configuration](https://vladdba.com/2025/11/16/my-sql-server-management-studio-22-configuration)
+- [Page compression on heaps implies some extra work](https://vladdba.com/2025/12/09/page-compression-heaps-sql-server)
+- [Explaining SQL injection using PowerShell and SQL Server](https://vladdba.com/2025/01/06/explaining-sql-injection-powershell-and-sql-server)
 
 ---
