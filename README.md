@@ -2,7 +2,8 @@
 
 ### My name is Vlad Drumea
 
-I specialize in SQL Server performance, security, and automation. With 13+ years in large, mission-critical environments, including substantial Oracle tuning work, I bring a cross-platform edge to every project.\
+I'm a [Microsoft Data Platform MVP](https://mvp.microsoft.com/en-US/mvp/profile/f5d8c7dd-1c75-43a3-ab5b-ad448077b98d) specializing in SQL Server performance, security, and automation.\
+With 14+ years in large, mission-critical environments, including substantial Oracle tuning work, I bring a cross-platform edge to every project.\
 Holding a [Data Platform MCSE](https://www.credly.com/badges/ba2296f1-74b3-4fb6-9415-a3e866f08832/public_url), [OSCP](https://www.credential.net/7170fee5-2260-4205-a6e8-1b7cd4d75b14#gs.4ws10p), and [PNPT](https://www.credential.net/4ee01ae1-ee5d-4a17-85e6-4251e3923454#gs.4ws11s), I combine deep database expertise with an attacker's perspective on security.\
 I'm the author of [PSBlitz](https://github.com/VladDBA/PSBlitz), an open-source SQL Server diagnostic tool, and I write about SQL Server, InfoSec, and PowerShell on [my blog](https://vladdba.com/).
 
