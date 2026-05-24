@@ -70,10 +70,10 @@ I'm the author of [PSBlitz](https://github.com/VladDBA/PSBlitz), an open-source 
 
 #### Recently updated
 
-- [Looking into SQL Server 2025's new PBKDF2 hashing algorithm](https://vladdba.com/2025/06/23/looking-into-sql-server-2025s-new-pbkdf2-hashing-algorithm)
-- [The hidden costs of heaps in SQL Server](https://vladdba.com/2025/12/30/the-hidden-costs-of-heaps-in-sql-server)
-- [My SQL Server Management Studio 22 configuration](https://vladdba.com/2025/11/16/my-sql-server-management-studio-22-configuration)
-- [Page compression on heaps implies some extra work](https://vladdba.com/2025/12/09/page-compression-heaps-sql-server)
-- [Explaining SQL injection using PowerShell and SQL Server](https://vladdba.com/2025/01/06/explaining-sql-injection-powershell-and-sql-server)
+- [Script to decode Asus router configuration backup file](https://vladdba.com/2024/05/19/powershell-decode-asus-router-configuration-backup-file)
+- [Using SQL Server Startup Procedures to automate sp_BlitzWho](https://vladdba.com/2023/10/24/sql-server-startup-procedures-automate-sp_blitzwho)
+- [Get access to SQL Server when you don't have the SA password](https://vladdba.com/2023/08/07/get-access-to-sql-server-when-you-dont-have-the-sa-password)
+- [Getting the sysadmin role via trustworthy database](https://vladdba.com/2022/11/15/getting-sysadmin-via-trustworthy-database)
+- [Securing SQL Server linked servers](https://vladdba.com/2023/07/10/securing-sql-server-linked-servers)
 
 ---
