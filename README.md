@@ -46,11 +46,11 @@ I'm the author of [PSBlitz](https://github.com/VladDBA/PSBlitz), an open-source 
 
 #### Latest
 
+- [SQL Server permissions that can lead to privilege escalation](https://vladdba.com/2026/05/22/sql-server-permission-privilege-escalation)
 - [Test SQL Server backups to avoid Schrödinger's backups](https://vladdba.com/2026/04/23/test-sql-server-backups-schrodingers-backups)
 - [Cracking SQL Server 2025 login passwords offline with hashcat](https://vladdba.com/2026/04/16/cracking-sql-server-2025-login-passwords-offline-with-hashcat)
 - [Using dynamic T-SQL? Parametrization alone can't prevent SQL injection](https://vladdba.com/2026/04/15/dynamic-t-sql-sql-injection-quotename-executesql)
 - [T-SQL Tuesday #197 - An impactful session changed my DBA career](https://vladdba.com/2026/04/14/t-sql-tuesday-197-impactful-session-dba-career)
-- [PSA: Stop using FLOAT to store financial data in SQL Server](https://vladdba.com/2026/04/11/stop-using-float-for-financial-data-sql-server)
 
 #### By likes
 
