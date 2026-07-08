@@ -46,11 +46,11 @@ I'm the author of [PSBlitz](https://github.com/VladDBA/PSBlitz), an open-source 
 
 #### Latest
 
+- [T-SQL Tuesday #200 – things that make me instantly think a query is bad](https://vladdba.com/2026/07/07/t-sql-tuesday-200-things-that-make-a-query-bad)
+- [From Attendee to Speaker: My first Data Saturday session](https://vladdba.com/2026/06/23/attendee-speaker-data-saturday)
+- [Get an Extra 10% Off Brent Ozar's Live Classes](https://vladdba.com/2026/06/23/extra-10-off-brent-ozars-live-classes)
+- [PSBlitz 6.1.0: new backup and security checks, Excel improvements](https://vladdba.com/2026/05/28/psblitz-6-1-0-backup-security-checks-excel-performance)
 - [SQL Server permissions that can lead to privilege escalation](https://vladdba.com/2026/05/22/sql-server-permission-privilege-escalation)
-- [Test SQL Server backups to avoid Schrödinger's backups](https://vladdba.com/2026/04/23/test-sql-server-backups-schrodingers-backups)
-- [Cracking SQL Server 2025 login passwords offline with hashcat](https://vladdba.com/2026/04/16/cracking-sql-server-2025-login-passwords-offline-with-hashcat)
-- [Using dynamic T-SQL? Parametrization alone can't prevent SQL injection](https://vladdba.com/2026/04/15/dynamic-t-sql-sql-injection-quotename-executesql)
-- [T-SQL Tuesday #197 - An impactful session changed my DBA career](https://vladdba.com/2026/04/14/t-sql-tuesday-197-impactful-session-dba-career)
 
 #### By likes
 
@@ -70,10 +70,10 @@ I'm the author of [PSBlitz](https://github.com/VladDBA/PSBlitz), an open-source 
 
 #### Recently updated
 
+- [The hidden costs of heaps in SQL Server](https://vladdba.com/2025/12/30/the-hidden-costs-of-heaps-in-sql-server)
 - [Script to decode Asus router configuration backup file](https://vladdba.com/2024/05/19/powershell-decode-asus-router-configuration-backup-file)
 - [Using SQL Server Startup Procedures to automate sp_BlitzWho](https://vladdba.com/2023/10/24/sql-server-startup-procedures-automate-sp_blitzwho)
 - [Get access to SQL Server when you don't have the SA password](https://vladdba.com/2023/08/07/get-access-to-sql-server-when-you-dont-have-the-sa-password)
 - [Getting the sysadmin role via trustworthy database](https://vladdba.com/2022/11/15/getting-sysadmin-via-trustworthy-database)
-- [Securing SQL Server linked servers](https://vladdba.com/2023/07/10/securing-sql-server-linked-servers)
 
 ---
