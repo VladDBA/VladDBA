@@ -46,11 +46,11 @@ I'm the author of [PSBlitz](https://github.com/VladDBA/PSBlitz), an open-source 
 
 #### Latest
 
+- [Querying Shodan with SQL Server's sp_invoke_external_rest_endpoint](https://vladdba.com/2026/07/19/shodan-sql-server-sp_invoke_external_rest_endpoint)
+- [Internet-exposed SQL Server instances and where to find them](https://vladdba.com/2026/07/19/internet-exposed-sql-server-instances)
 - [T-SQL Tuesday #200 – things that make me instantly think a query is bad](https://vladdba.com/2026/07/07/t-sql-tuesday-200-things-that-make-a-query-bad)
 - [From Attendee to Speaker: My first Data Saturday session](https://vladdba.com/2026/06/23/attendee-speaker-data-saturday)
-- [Get an Extra 10% Off Brent Ozar's Live Classes](https://vladdba.com/2026/06/23/extra-10-off-brent-ozars-live-classes)
 - [PSBlitz 6.1.0: new backup and security checks, Excel improvements](https://vladdba.com/2026/05/28/psblitz-6-1-0-backup-security-checks-excel-performance)
-- [SQL Server permissions that can lead to privilege escalation](https://vladdba.com/2026/05/22/sql-server-permission-privilege-escalation)
 
 #### By likes
 
