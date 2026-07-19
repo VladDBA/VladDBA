@@ -63,10 +63,10 @@ I'm the author of [PSBlitz](https://github.com/VladDBA/PSBlitz), an open-source 
 #### By views
 
 - [Script to delete extra tempdb data files](https://vladdba.com/2024/03/11/script-to-delete-extra-tempdb-data-files)
-- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
 - [Setting up a Windows Server 2019 VM in VirtualBox](https://vladdba.com/2022/11/10/setting-up-a-windows-server-2019-vm-in-virtualbox)
-- [Fixing SQL Server connection errors 64 233](https://vladdba.com/2023/04/26/fixing-sql-server-connection-errors-64-233)
-- [Script to get table sizes in SQL Server](https://vladdba.com/2023/08/24/script-to-get-table-sizes-in-sql-server)
+- [My SQL Server Management Studio 22 configuration](https://vladdba.com/2025/11/16/my-sql-server-management-studio-22-configuration)
+- [Setting up a Windows Server 2022 VM in VirtualBox](https://vladdba.com/2022/12/29/setting-up-a-windows-server-2022-vm-in-virtualbox)
+- [Fix "certificate chain was issued by an authority that is not trusted" in dbatools](https://vladdba.com/2023/07/29/fix-certificate-authority-that-is-not-trusted-when-using-dbatools)
 
 #### Recently updated
 
