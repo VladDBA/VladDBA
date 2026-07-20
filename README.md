@@ -37,7 +37,7 @@ I'm the author of [PSBlitz](https://github.com/VladDBA/PSBlitz), an open-source 
 
 - [My blog](https://vladdba.com/)
 - [LinkedIn](https://www.linkedin.com/in/vladdrumea/)
-- [Mastodon](https://mastodon.cloud/@VladDBA)
+- [Mastodon](https://mastodon.social/@VladDBA)
 - [Bluesky](https://bsky.app/profile/vladdba.com)
 
 ---
