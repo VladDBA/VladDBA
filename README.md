@@ -18,7 +18,7 @@ Bringing a cross-platform edge to every project with substantial Oracle tuning e
 
 #### GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VladDBA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VladDBA&theme=midnight-purple)](https://git.io/streak-stats)
 
 ---
 
