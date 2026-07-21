@@ -26,8 +26,8 @@ Bringing a cross-platform edge to every project with substantial Oracle tuning e
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladdba&hide=cmake&langs_count=4&line_height=35&theme=midnight-purple&layout=donut" />
 </a>
 
-<a href="https://github.com/DavidSabirov/github-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladdba&theme=midnight-purple" />
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=vladdba&theme=midnight-purple" />
 </a>
 
 <br/>
