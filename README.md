@@ -18,17 +18,9 @@ Bringing a cross-platform edge to every project with substantial Oracle tuning e
 
 #### GitHub Stats
 
-<a href="https://github.com/VladDBA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vladdba&show_icons=true&line_height=33&count_private=true&theme=midnight-purple" alt="VladDBA's GitHub Stats" />
-</a>
-
-<a href="https://github.com/VladDBA?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladdba&hide=cmake&langs_count=4&line_height=35&theme=midnight-purple&layout=donut" />
-</a>
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=vladdba&theme=midnight-purple" />
-</a>
+<a href="https://vladdba.com"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=vladdba&show_icons=true&line_height=33&count_private=true&theme=midnight-purple" alt="VladDBA's GitHub Stats" /></a> 
+<a href="https://vladdba.com"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladdba&&hide=cmake&langs_count=4&line_height=35&theme=midnight-purple&layout=donut" /></a> 
+<a href="https://vladdba.com"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladdba&theme=midnight-purple" /> </a>
 
 <br/>
 
