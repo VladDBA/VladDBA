@@ -1,37 +1,48 @@
-### Hi there 👋
+### Hi there, I'm Vlad Drumea
 
-### My name is Vlad Drumea
+Senior SQL Server DBA with 14+ years in large, mission-critical environments.
+Bringing a cross-platform edge to every project with substantial Oracle tuning experience.
 
-I'm a [Microsoft Data Platform MVP](https://mvp.microsoft.com/en-US/mvp/profile/f5d8c7dd-1c75-43a3-ab5b-ad448077b98d) specializing in SQL Server performance, security, and automation.\
-With 14+ years in large, mission-critical environments, including substantial Oracle tuning work, I bring a cross-platform edge to every project.\
-Holding a [Data Platform MCSE](https://www.credly.com/badges/ba2296f1-74b3-4fb6-9415-a3e866f08832/public_url), [OSCP](https://www.credential.net/7170fee5-2260-4205-a6e8-1b7cd4d75b14#gs.4ws10p), and [PNPT](https://www.credential.net/4ee01ae1-ee5d-4a17-85e6-4251e3923454#gs.4ws11s), I combine deep database expertise with an attacker's perspective on security.\
-I'm the author of [PSBlitz](https://github.com/VladDBA/PSBlitz), an open-source SQL Server diagnostic tool, and I write about SQL Server, InfoSec, and PowerShell on [my blog](https://vladdba.com/).
+- [Microsoft Data Platform MVP](https://mvp.microsoft.com/en-US/mvp/profile/f5d8c7dd-1c75-43a3-ab5b-ad448077b98d)
+- [Data Platform MCSE](https://www.credly.com/badges/ba2296f1-74b3-4fb6-9415-a3e866f08832/public_url)
+- [OSCP](https://www.credential.net/7170fee5-2260-4205-a6e8-1b7cd4d75b14#gs.4ws10p) | [PNPT](https://www.credential.net/4ee01ae1-ee5d-4a17-85e6-4251e3923454#gs.4ws11s) | Combining deep database expertise with an attacker's perspective on security
+- Author of [PSBlitz](https://github.com/VladDBA/PSBlitz), an open-source SQL Server diagnostic tool
+- I write about SQL Server, InfoSec, and PowerShell at [vladdba.com](https://vladdba.com/)
 
-<!--
-**VladDBA/VladDBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-#### &#x1f4c8; My GitHub Stats
+#### Tech Stack
 
-<a href="https://vladdba.com">
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=green)
+
+#### GitHub Stats
+
+<a href="https://github.com/VladDBA">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vladdba&show_icons=true&line_height=33&count_private=true&theme=midnight-purple" alt="VladDBA's GitHub Stats" />
 </a>
 
-<a href="https://vladdba.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladdba&&hide=cmake&langs_count=4&line_height=35&theme=midnight-purple&layout=donut" />
+<a href="https://github.com/VladDBA?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladdba&hide=cmake&langs_count=4&line_height=35&theme=midnight-purple&layout=donut" />
 </a>
 
-<a href="https://vladdba.com">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vladdba&theme=midnight-purple" />
+<a href="https://github.com/DavidSabirov/github-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladdba&theme=midnight-purple" />
 </a>
 
 <br/>
 
 ---
 
-#### Projects I’m currently working on
+#### Projects
 
-- [PSBlitz](https://github.com/VladDBA/PSBlitz) - A PowerShell-based tool that outputs SQL Server health and performance diagnostics data to either Excel or HTML, and saves execution plans and deadlock graphs as .sqlplan and .xdl files
-- [SQL-Server-Scripts](https://github.com/VladDBA/SQL-Server-Scripts) - Various T-SQL/PowerShell SQL Server-related scripts.
+- [PSBlitz](https://github.com/VladDBA/PSBlitz) - A PowerShell-based tool that outputs SQL Server health, security, and performance diagnostics data to either Excel or HTML, and saves execution plans and deadlock graphs as .sqlplan and .xdl files
+- [SQL-Server-Scripts](https://github.com/VladDBA/SQL-Server-Scripts) - Various T-SQL/PowerShell SQL Server-related scripts
+
+#### Community
+
+- Spoke at [Data Saturday Croatia 2026](https://vladdba.com/2026/06/23/attendee-speaker-data-saturday) on heap costs in SQL Server
+- Contributor to [Brent Ozar's First Responder Kit](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit)
 
 #### On the Internet
 
@@ -42,38 +53,22 @@ I'm the author of [PSBlitz](https://github.com/VladDBA/PSBlitz), an open-source 
 
 ---
 
-#### Top 5 blog posts
+#### From the Blog
 
-#### Latest
+##### Latest
 
 - [Querying Shodan with SQL Server's sp_invoke_external_rest_endpoint](https://vladdba.com/2026/07/19/shodan-sql-server-sp_invoke_external_rest_endpoint)
 - [Internet-exposed SQL Server instances and where to find them](https://vladdba.com/2026/07/19/internet-exposed-sql-server-instances)
-- [T-SQL Tuesday #200 – things that make me instantly think a query is bad](https://vladdba.com/2026/07/07/t-sql-tuesday-200-things-that-make-a-query-bad)
+- [T-SQL Tuesday #200 - things that make me instantly think a query is bad](https://vladdba.com/2026/07/07/t-sql-tuesday-200-things-that-make-a-query-bad)
 - [From Attendee to Speaker: My first Data Saturday session](https://vladdba.com/2026/06/23/attendee-speaker-data-saturday)
 - [PSBlitz 6.1.0: new backup and security checks, Excel improvements](https://vladdba.com/2026/05/28/psblitz-6-1-0-backup-security-checks-excel-performance)
 
-#### By likes
-
-- [Script to search for a string in an entire SQL Server database](https://vladdba.com/2023/12/13/script-to-search-for-a-string-in-an-entire-sql-server-database)
-- [Finding Long Values Faster - my solution to Brent's exercise](https://vladdba.com/2024/02/15/find-long-values-faster-my-solution-to-brents-exercise)
-- [Plagiarism and a lesson in hotlinking images](https://vladdba.com/2024/02/18/plagiarism-and-a-lesson-in-hotlinking-images)
-- [Export and import multiple SQL Server tables to and from CSV files](https://vladdba.com/2023/11/16/export-multiple-sql-server-tables-to-csv-files)
-- [How apps cause ASYNC_NETWORK_IO waits in SQL Server](https://vladdba.com/2024/01/22/how-applications-cause-excessive-async_network_io-waits-in-sql-server)
-
-#### By views
+##### Most viewed
 
 - [Script to delete extra tempdb data files](https://vladdba.com/2024/03/11/script-to-delete-extra-tempdb-data-files)
 - [Setting up a Windows Server 2019 VM in VirtualBox](https://vladdba.com/2022/11/10/setting-up-a-windows-server-2019-vm-in-virtualbox)
 - [My SQL Server Management Studio 22 configuration](https://vladdba.com/2025/11/16/my-sql-server-management-studio-22-configuration)
 - [Setting up a Windows Server 2022 VM in VirtualBox](https://vladdba.com/2022/12/29/setting-up-a-windows-server-2022-vm-in-virtualbox)
 - [Fix "certificate chain was issued by an authority that is not trusted" in dbatools](https://vladdba.com/2023/07/29/fix-certificate-authority-that-is-not-trusted-when-using-dbatools)
-
-#### Recently updated
-
-- [The hidden costs of heaps in SQL Server](https://vladdba.com/2025/12/30/the-hidden-costs-of-heaps-in-sql-server)
-- [Script to decode Asus router configuration backup file](https://vladdba.com/2024/05/19/powershell-decode-asus-router-configuration-backup-file)
-- [Using SQL Server Startup Procedures to automate sp_BlitzWho](https://vladdba.com/2023/10/24/sql-server-startup-procedures-automate-sp_blitzwho)
-- [Get access to SQL Server when you don't have the SA password](https://vladdba.com/2023/08/07/get-access-to-sql-server-when-you-dont-have-the-sa-password)
-- [Getting the sysadmin role via trustworthy database](https://vladdba.com/2022/11/15/getting-sysadmin-via-trustworthy-database)
 
 ---
