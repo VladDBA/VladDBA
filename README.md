@@ -45,11 +45,11 @@ Bringing a cross-platform edge to every project with substantial Oracle tuning e
 
 ##### Latest
 
+- [Exfiltrate data from SQL Server 2025 with sp_invoke_external_rest_endpoint](https://vladdba.com/2026/07/22/exfiltrate-data-sql-server-2025-sp_invoke_external_rest_endpoint)
 - [Querying Shodan with SQL Server's sp_invoke_external_rest_endpoint](https://vladdba.com/2026/07/19/shodan-sql-server-sp_invoke_external_rest_endpoint)
 - [Internet-exposed SQL Server instances and where to find them](https://vladdba.com/2026/07/19/internet-exposed-sql-server-instances)
-- [T-SQL Tuesday #200 - things that make me instantly think a query is bad](https://vladdba.com/2026/07/07/t-sql-tuesday-200-things-that-make-a-query-bad)
+- [T-SQL Tuesday #200 – things that make me instantly think a query is bad](https://vladdba.com/2026/07/07/t-sql-tuesday-200-things-that-make-a-query-bad)
 - [From Attendee to Speaker: My first Data Saturday session](https://vladdba.com/2026/06/23/attendee-speaker-data-saturday)
-- [PSBlitz 6.1.0: new backup and security checks, Excel improvements](https://vladdba.com/2026/05/28/psblitz-6-1-0-backup-security-checks-excel-performance)
 
 ##### Most viewed
 
