@@ -45,18 +45,18 @@ Bringing a cross-platform edge to every project with substantial Oracle tuning e
 
 ##### Latest
 
-- [Exfiltrate data from SQL Server 2025 with sp_invoke_external_rest_endpoint](https://vladdba.com/2026/07/22/exfiltrate-data-sql-server-2025-sp_invoke_external_rest_endpoint)
-- [Querying Shodan with SQL Server's sp_invoke_external_rest_endpoint](https://vladdba.com/2026/07/19/shodan-sql-server-sp_invoke_external_rest_endpoint)
-- [Internet-exposed SQL Server instances and where to find them](https://vladdba.com/2026/07/19/internet-exposed-sql-server-instances)
-- [T-SQL Tuesday #200 – things that make me instantly think a query is bad](https://vladdba.com/2026/07/07/t-sql-tuesday-200-things-that-make-a-query-bad)
-- [From Attendee to Speaker: My first Data Saturday session](https://vladdba.com/2026/06/23/attendee-speaker-data-saturday)
+- [Setting up an Azure SQL DB container in QNAP Container Station](https://vladdba.com/2026/08/02/azure-sql-db-container-qnap-container-station/)
+- [Setting up an Azure SQL DB container in Podman](https://vladdba.com/2026/08/02/azure-sql-db-container-podman/)
+- [Exfiltrate data from SQL Server 2025 with sp_invoke_external_rest_endpoint](https://vladdba.com/2026/07/22/exfiltrate-data-sql-server-2025-sp_invoke_external_rest_endpoint/)
+- [Querying Shodan with SQL Server's sp_invoke_external_rest_endpoint](https://vladdba.com/2026/07/19/shodan-sql-server-sp_invoke_external_rest_endpoint/)
+- [Internet-exposed SQL Server instances and where to find them](https://vladdba.com/2026/07/19/internet-exposed-sql-server-instances/)
 
 ##### Most viewed
 
-- [Script to delete extra tempdb data files](https://vladdba.com/2024/03/11/script-to-delete-extra-tempdb-data-files)
-- [Setting up a Windows Server 2019 VM in VirtualBox](https://vladdba.com/2022/11/10/setting-up-a-windows-server-2019-vm-in-virtualbox)
-- [My SQL Server Management Studio 22 configuration](https://vladdba.com/2025/11/16/my-sql-server-management-studio-22-configuration)
-- [Setting up a Windows Server 2022 VM in VirtualBox](https://vladdba.com/2022/12/29/setting-up-a-windows-server-2022-vm-in-virtualbox)
-- [Fix "certificate chain was issued by an authority that is not trusted" in dbatools](https://vladdba.com/2023/07/29/fix-certificate-authority-that-is-not-trusted-when-using-dbatools)
+- [Script to delete extra tempdb data files](https://vladdba.com/2024/03/11/script-to-delete-extra-tempdb-data-files/)
+- [Setting up a Windows Server 2019 VM in VirtualBox](https://vladdba.com/2022/11/10/setting-up-a-windows-server-2019-vm-in-virtualbox/)
+- [My SQL Server Management Studio 22 configuration](https://vladdba.com/2025/11/16/my-sql-server-management-studio-22-configuration/)
+- [Setting up a Windows Server 2022 VM in VirtualBox](https://vladdba.com/2022/12/29/setting-up-a-windows-server-2022-vm-in-virtualbox/)
+- [Fix "certificate chain was issued by an authority that is not trusted" in dbatools](https://vladdba.com/2023/07/29/fix-certificate-authority-that-is-not-trusted-when-using-dbatools/)
 
 ---
